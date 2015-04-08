@@ -1,3 +1,6 @@
-<apex:page showHeader="true" sidebar="true">
-	
+<apex:page showHeader="false" sidebar="false" standardStylesheets="false">
+<style>
+body {background-color: steelblue;}
+</style>
+<h1>Blue Steel</h1>
 </apex:page>
