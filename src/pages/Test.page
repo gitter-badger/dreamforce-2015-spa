@@ -1,6 +1,6 @@
 <apex:page showHeader="false" sidebar="false" standardStylesheets="false">
 <style>
-body {background-color: steelblue;}
+body {background-color: lightgreen;}
 </style>
-<h1>Blue Steel</h1>
+<h1>Green Machine</h1>
 </apex:page>
